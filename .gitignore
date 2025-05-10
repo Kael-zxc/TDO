@@ -1,0 +1,14 @@
+# Виртуальное окружение Python
+/backend/venv/
+.env
+
+# Зависимости Node.js
+/frontend/node_modules/
+
+# Скомпилированные файлы Python
+*.pyc
+__pycache__/
+
+# Локальные настройки IDE и системы
+.vscode/
+.DS_Store
